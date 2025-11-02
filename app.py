@@ -779,7 +779,6 @@ st.markdown("""
 <div class="premium-header">
     <div>
         <h1>🛡️ Medical Data Privacy Guard</h1>
-        <p>India Edition • Secure your sensitive medical data with advanced redaction</p>
     </div>
 </div>
 """, unsafe_allow_html=True)
@@ -876,6 +875,6 @@ with col3:
 
 st.markdown(f"""
 <div class="premium-footer">
-    Made by <strong>Abrar Hussain</strong> and <strong>Lingaraj</strong> • spaCy: {USE_SPACY}
+    Made by <strong>Abrar Hussain</strong> and <strong>Lingaraj</strong> <br>• spaCy: {USE_SPACY}
 </div>
 """, unsafe_allow_html=True)
